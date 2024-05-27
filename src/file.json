@@ -1,0 +1,27 @@
+[
+  {
+    "title": "React Components",
+    "desc": "Learn about the building blocks of React applications. Understand how to create reusable UI elements using components, manage component state, and pass data between components.",
+    "img": "react_components_image.jpg"
+  },
+  {
+    "title": "React Hooks",
+    "desc": "Explore the modern way of managing stateful logic in functional components using React Hooks. Learn about useState, useEffect, useContext, and other built-in hooks to enhance your React applications.",
+    "img": "react_hooks_image.png"
+  },
+  {
+    "title": "React Router",
+    "desc": "Discover how to implement client-side routing in React applications using React Router. Learn about Route, Switch, Link, and other components to navigate between different views and maintain a single-page application experience.",
+    "img": "react_router_image.png"
+  },
+  {
+    "title": "Redux in React",
+    "desc": "Understand the principles of state management in React applications using Redux. Learn how to set up Redux, create reducers, actions, and connect Redux to React components to manage global application state.",
+    "img": "redux_in_react_image.png"
+  },
+  {
+    "title": "Server-Side Rendering (SSR) with React",
+    "desc": "Learn how to render React applications on the server side to improve performance, SEO, and user experience. Explore frameworks like Next.js or Gatsby.js for server-side rendering and static site generation in React.",
+    "img": "ssr_with_react_image.png"
+  }
+]
